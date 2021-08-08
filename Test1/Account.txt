@@ -1,3 +1,0 @@
-https://explorer.nervos.org/aggron/address/ckt1qyq92kc3u278ku6sr42pk9vjrthxxy5g42gqjksxl5
-0x305afa72474DE493043f2634498c4C4b5DfE2c1d
-godwoken short address: 0x12cdb362288e6669e57e8318cc29184176331d73
