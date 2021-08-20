@@ -1,6 +1,7 @@
+// SPDX-License-Identifier: MIT
 pragma solidity >=0.8.0;
 
-contract Tokener {
+contract TokenMaster {
   uint256 TokenCount;
 
   constructor() payable {
@@ -20,11 +21,11 @@ contract Tokener {
     TokenCount = sub(TokenCount,x);
   }
   
-  function add(uint x) public payable {
+  function mint(uint x) public payable {
     TokenCount = add(TokenCount,x);
   }
   
-  function get() public view returns (uint) {
+  function getBal() public view returns (uint) {
     return TokenCount;
   }
 }
