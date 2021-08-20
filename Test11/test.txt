@@ -1,1 +1,0 @@
-node ./packages/tools/lib/account-cli.js deposit -p 0x79682c20bbcaf7fcf18eb0c69b133c872227ceb88971090e7f2242c80cd54d18 --tron-address TU2uKN6cPmDm7uiMNXhv6qMRLZrP68Tkam -c 100000000000 -r http://3.235.223.161:18114 -i http://3.235.223.161:18116
